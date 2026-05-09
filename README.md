@@ -36,10 +36,25 @@ claude101/
 ├── CLAUDE.md          ← context for the Claude Code agent
 ├── install.md         ← Claude Code setup guide
 ├── session-01/        ← first session materials
-│   ├── slides.pptx
+│   ├── claude-code-deck1-he.pptx
 │   └── notes.md
 └── bonus/             ← yes, there is bonus content
 ```
+
+## Skills שנשתמש בקורס
+
+Skills הם מודולי מומחיות לשימוש חוזר. נתקין ונפעיל בכיתה:
+
+| Skill | למה זה |
+|---|---|
+| [`code-review-skill`](https://github.com/cohere/claude-code-skills) | סקירת קוד מקצועית - React, Vue, TypeScript, Python, Rust ועוד |
+| [`ui-ux-pro-max`](https://github.com/AhmadHassan-AI/ui-ux-pro-max) | אינטליגנציית עיצוב - 67 סגנונות, 96 פאלטות, 13 stacks |
+| [`superpowers`](https://github.com/obra/superpowers) | מתודולוגיית פיתוח שלמה: spec → plan → subagents → verify |
+| `/security-review` | פקודת slash מובנית של Claude Code - סקירת אבטחה ל-PR |
+
+## Anthropic Console
+
+נשתמש ב-[console.anthropic.com](https://console.anthropic.com) להשוואת מודלים ופרומפטים בזמן אמת מול הכיתה - דרך ה-**Workbench**. שווה להירשם מראש (חינמי).
 
 ## Contact
 
