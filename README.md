@@ -47,8 +47,8 @@ Skills הם מודולי מומחיות לשימוש חוזר. נתקין ונפ
 
 | Skill | למה זה |
 |---|---|
-| [`code-review-skill`](https://github.com/cohere/claude-code-skills) | סקירת קוד מקצועית - React, Vue, TypeScript, Python, Rust ועוד |
-| [`ui-ux-pro-max`](https://github.com/AhmadHassan-AI/ui-ux-pro-max) | אינטליגנציית עיצוב - 67 סגנונות, 96 פאלטות, 13 stacks |
+| [`code-review-skill`](https://github.com/awesome-skills/code-review-skill) | סקירת קוד מקצועית - React, Vue, TypeScript, Python, Rust ועוד |
+| [`ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | אינטליגנציית עיצוב - 67 סגנונות, 96 פאלטות, 13 stacks |
 | [`superpowers`](https://github.com/obra/superpowers) | מתודולוגיית פיתוח שלמה: spec → plan → subagents → verify |
 | `/security-review` | פקודת slash מובנית של Claude Code - סקירת אבטחה ל-PR |
 
